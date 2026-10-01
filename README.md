@@ -1,4 +1,4 @@
-The are the Project that me and my team are currently developing
+These are the Project that me and my team are currently developing
 
 The first one s Context-Aware Vulnerability Classification with Knowledge Graphs and Security Intelligence (VCKG-Securty-Alerts-main)
 
